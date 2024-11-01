@@ -85,7 +85,7 @@ Subscribed topics:
 ![turtle.png](../assets/turtle.png)
 
 - 控制小车速度话题`/cmd_vel`的令其朝图中直线方向运动，同时接收odom数据，当odom数据记录的里程已到达A点坐标
-**(x = 0.55, y = -0.49)**，改变速度方向，朝B点坐标**(x = 0.55, y = -1.64)**方向运动，当odom数据记录的里程到达B点坐标，令小车停在B点
+**(x = 0.55, y = -0.49)**，改变速度方向，朝B点坐标方向运动**(x = 0.55, y = -1.64)**，当odom数据记录的里程到达B点坐标，令小车停在B点
 
 ### 🚵**评分细则**
 
@@ -93,7 +93,7 @@ Subscribed topics:
 
 - 🎲要求：
     
-    1.**ros_package必须要有include，src，launch文件夹，**代码文件按需放置
+    1.**ros_package**必须要有**include**，**src**，**launch**文件夹，代码文件按需放置
     
     2.正确填写 **CMakeList.txt**, **package.xml**
     
@@ -116,7 +116,7 @@ Subscribed topics:
     
 - 🍭参考资料：
     
-    1. [ROS C++ Style Guide](http://wiki.ros.org/CppStyleGuide)
+    1.[ROS C++ Style Guide](http://wiki.ros.org/CppStyleGuide)
     
     2.[Google C++ Style](https://google.github.io/styleguide/cppguide.html)
     
