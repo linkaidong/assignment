@@ -2,15 +2,11 @@
 
 ## **一、任务要求**
 
----
-
 请各位同学创建个新的ros_package，要求启动给定的launch后，用键盘控制tb3_0(已经集成在launch里面了)按指定的轨迹运动(速度快慢自己把握)，要求tb3_1获取tf: `tb3_0/base_link-->tb3_1/base_link`，借助获取到两台车底盘坐标系的相对位姿关系，控制tb3_1跟随tb3_0的运动轨迹运动。
 
 ![show.jpg](../assets/show.jpg)
 
 ## **二、细则**
-
----
 
 **1. 请创建新文件multi_turtlebot3.launch**
 
