@@ -67,6 +67,8 @@
 
 **3. 可借助rviz或rqt看tf关系**
 
+**4. 一定要注重代码规范，参考上节课作业要求的[ROS C++ Style Guide](http://wiki.ros.org/CppStyleGuide)**
+
 ![rviz.jpg](../assets/rviz.jpg)
 
 ## **三、考核方式**
