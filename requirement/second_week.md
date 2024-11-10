@@ -63,7 +63,7 @@
 </launch>
 ```
 
-**2. 两小车间需保持0.5m的[曼哈顿距离](https://en.wikipedia.org/wiki/Taxicab_geometry)，这个距离长度可以通过参数服务器指定**
+**2. 两小车间需保持1.0m的[曼哈顿距离](https://en.wikipedia.org/wiki/Taxicab_geometry)，这个距离长度可以通过参数服务器指定**
 
 **3. 可借助rviz或rqt看tf关系**
 
