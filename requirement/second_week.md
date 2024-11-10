@@ -69,7 +69,7 @@
 
 ![rviz.jpg](../assets/rviz.jpg)
 
-**4. 一定要注重代码规范，参考上节课作业要求的[ROS C++ Style Guide](http://wiki.ros.org/CppStyleGuide)**
+**4. 一定要注重代码规范，参考上节课作业要求的[ROS C++ Style Guide](http://wiki.ros.org/CppStyleGuide), 否则将酌情扣分！！！**
 
 ## **三、考核方式**
 
